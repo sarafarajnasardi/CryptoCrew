@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627480657868",
+    "project_id": "cryptocrew-6b75a",
+    "storage_bucket": "cryptocrew-6b75a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627480657868:android:9f63514bcc7158a5e26769",
+        "android_client_info": {
+          "package_name": "com.example.learn1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZnqma_ZLHNkMdWoQD7KQXoB5N2q9KB7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
